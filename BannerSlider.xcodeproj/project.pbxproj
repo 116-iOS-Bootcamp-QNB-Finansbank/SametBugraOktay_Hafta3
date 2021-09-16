@@ -13,6 +13,7 @@
 		112DDD0526F21A0C00C850D5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 112DDD0326F21A0C00C850D5 /* Main.storyboard */; };
 		112DDD0726F21A0D00C850D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 112DDD0626F21A0D00C850D5 /* Assets.xcassets */; };
 		112DDD0A26F21A0D00C850D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 112DDD0826F21A0D00C850D5 /* LaunchScreen.storyboard */; };
+		112DDD1326F21AED00C850D5 /* SliderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 112DDD1226F21AED00C850D5 /* SliderCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		112DDD0626F21A0D00C850D5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		112DDD0926F21A0D00C850D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		112DDD0B26F21A0D00C850D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		112DDD1226F21AED00C850D5 /* SliderCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				112DDCFD26F21A0C00C850D5 /* AppDelegate.swift */,
 				112DDCFF26F21A0C00C850D5 /* SceneDelegate.swift */,
 				112DDD0126F21A0C00C850D5 /* ViewController.swift */,
+				112DDD1226F21AED00C850D5 /* SliderCell.swift */,
 				112DDD0326F21A0C00C850D5 /* Main.storyboard */,
 				112DDD0626F21A0D00C850D5 /* Assets.xcassets */,
 				112DDD0826F21A0D00C850D5 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				112DDD0226F21A0C00C850D5 /* ViewController.swift in Sources */,
 				112DDCFE26F21A0C00C850D5 /* AppDelegate.swift in Sources */,
+				112DDD1326F21AED00C850D5 /* SliderCell.swift in Sources */,
 				112DDD0026F21A0C00C850D5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
